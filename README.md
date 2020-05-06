@@ -4,7 +4,7 @@
 
 Site for KF News and Updates
 
-You can visit it here: [Vel-San.github.io](htt://Vel-San.github.io/)
+You can visit it here: [Vel-San.github.io](https://Vel-San.github.io/)
 
 ## Local Dev & Usage
 
