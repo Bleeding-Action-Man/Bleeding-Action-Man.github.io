@@ -1,7 +1,7 @@
 title: Vel-San's KF World # The title of the blog
 author: Vel-San # Your name
 email: Vel-San@protonmail.com # your email shown in the footer
-url: http://VelSan-KF.com # this is your site's root address.
+url: https://vel-san.github.io/ # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
   A blog site that holds all my <a href="http://www.killingfloorgames.com/">Killing floor</a> related contributions; guides, workshop items and favorite collections like Mutators, Maps and such.
 favicon: "./favicon.png" # set the favicon of the site
