@@ -1,8 +1,9 @@
+# Files
 *.gem
+Gemfile.lock
+# Directories
 .bundle
 .jekyll-cache
 .sass-cache
 _site
-Gemfile.lock
-
 .DS_Store

@@ -3,6 +3,7 @@ layout: post
 title: "Welcome!"
 categories: Announcement
 author: "Vel-San"
+date: '2020-05-5 14:20:00'
 ---
 Hello there, fresh meat!
 
