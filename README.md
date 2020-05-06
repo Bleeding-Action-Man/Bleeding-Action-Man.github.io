@@ -4,11 +4,8 @@
 
 Site for KF News and Updates
 
-You can visit it here: [Vel-San.github.io][URL]
+You can visit it here: [Vel-San.github.io](htt://Vel-San.github.io/)
 
 ## Local Dev & Usage
 
-Theme used: [Moving][THEME]
-
-[URL]: [htt://Vel-San.github.io/]
-[THEME]: [https://github.com/huangyz0918/moving]
+Theme used: [Moving](https://github.com/huangyz0918/moving)
