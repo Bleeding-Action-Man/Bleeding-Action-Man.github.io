@@ -6,6 +6,8 @@ description: > # this means to ignore newlines until "show_excerpts:"
   A blog that will hold all my <a href="http://www.killingfloorgames.com/">Killing floor 1</a> related contributions; guides, workshop items and favorite collections like Mutators, Maps and such.
 favicon: "./favicon.png" # set the favicon of the site
 
+# Timezone
+timezone: Germany/Berlin
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Moving date format
