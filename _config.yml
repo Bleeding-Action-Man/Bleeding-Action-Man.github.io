@@ -1,9 +1,9 @@
-title: Vel-San's KF World # The title of the blog
+title: Vel-San's KF-1 Blog # The title of the blog
 author: Vel-San # Your name
 email: Vel-San@protonmail.com # your email shown in the footer
 url: https://vel-san.github.io/ # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
-  A blog site that holds all my <a href="http://www.killingfloorgames.com/">Killing floor</a> related contributions; guides, workshop items and favorite collections like Mutators, Maps and such.
+  A blog that will hold all my <a href="http://www.killingfloorgames.com/">Killing floor 1</a> related contributions; guides, workshop items and favorite collections like Mutators, Maps and such.
 favicon: "./favicon.png" # set the favicon of the site
 
 show_excerpts: false # set to true to show excerpts on the homepage
