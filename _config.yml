@@ -33,8 +33,3 @@ theme: huangyz0918/moving # Production
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-last-modified-at
-
-# Post Last Modified Date
-last-modified-at:
-  date-format: '%b %-d, %Y at %r'
