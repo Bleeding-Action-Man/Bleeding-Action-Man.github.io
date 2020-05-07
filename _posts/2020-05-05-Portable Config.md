@@ -3,11 +3,12 @@ layout: post
 title: "Portable Dedicated-Server Config"
 categories: Guide
 author: "Vel-San"
-date: '2020-05-6 22:20:00'
+date: '2020-05-6 22:20:00 +0200'
+last_modified_at: '2020-05-7 23:40:00 +0200'
 ---
 Hey there!
 
-&nbsp;&nbsp;&nbsp;&nbsp;This is my very first post on the site. Today I'll be sharing information about a guide `(Cofiguration)` for a [Dedicated-Server][DS]. The full documentation can be found in the repo provided below;
+&nbsp;&nbsp;&nbsp;&nbsp;This is my very first post on the site. Today I'll be sharing information about a guide `(Cofiguration)` for a [Dedicated-Server][DS]{:target="_blank"}. The full documentation can be found in the repo provided below;
 
 The purpose of this Configuration is to eliminate the hassle of installing and configuring each mutator by yourself. Everything is pre-installed, configured for optimal results and the instructions are really easy!
 
