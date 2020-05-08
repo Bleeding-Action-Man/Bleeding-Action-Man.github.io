@@ -4,6 +4,8 @@ title: "Fast Downloads with a Redirect-URL"
 categories: Resource
 author: "Vel-San"
 date: '2020-05-07 23:28:00 +0200'
+last_modified_at: '2020-05-8 12:36:00 +0200'
+comments: true
 ---
 Eveing everone !
 
@@ -13,13 +15,16 @@ The purpose of a redirectURL is to provide everyone a host where they can downlo
 
 Today I'll be sharing my own RedirectURL with you, and a simple guide on how to set-up your own one!
 
-______
+<br>
+<hr>
+<br>
 
 My Own Server can be found  🡲 [HERE][velsan-redirect]{:target="_blank"} 🡰
 
 A Guide on how to set-up your own server can be found 🡲 [HERE][Redirect_guide]{:target="_blank"} 🡰
 
-______
+<br>
+<hr>
 
 ## Usage
 
@@ -40,8 +45,6 @@ If you want to *Host*, all the compression, upload, account creation and usage a
 <p align="center">
   <i><font size="3">Happy Modding!</font></i>
 </p>
-
-______
 
 [Redirect]: https://www.news.ut-files.com/redirect/
 [Redirect_guide]: https://steamcommunity.com/sharedfiles/filedetails/?id=1522731903

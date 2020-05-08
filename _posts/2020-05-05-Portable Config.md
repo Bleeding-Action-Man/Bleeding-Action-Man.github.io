@@ -4,7 +4,8 @@ title: "Portable Dedicated-Server Config"
 categories: Guide
 author: "Vel-San"
 date: '2020-05-6 22:20:00 +0200'
-last_modified_at: '2020-05-7 23:40:00 +0200'
+last_modified_at: '2020-05-8 12:36:00 +0200'
+comments: true
 ---
 Hey there!
 
@@ -22,16 +23,14 @@ Give it a try it you are interested 😄
 <p align="center">
   <i><font size="3">Click Me</font></i>
 </p>
-______
+
+<br>
+<hr>
 
 ### But Vel.. I have some questions!
 
 You can contact me from the links provided in my About page
 
-______
-
-<br>
-<br>
 <br>
 
 <div align="center">
