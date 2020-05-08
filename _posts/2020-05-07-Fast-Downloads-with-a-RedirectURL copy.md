@@ -4,12 +4,12 @@ title: "Fast Downloads with a Redirect-URL"
 categories: Resource
 author: "Vel-San"
 date: '2020-05-07 23:28:00 +0200'
-last_modified_at: '2020-05-8 12:36:00 +0200'
+last_modified_at: '2020-05-8 23:14:00 +0200'
 comments: true
 ---
-Eveing everone !
+Evening everyone !
 
-&nbsp;&nbsp;&nbsp;&nbsp;A very essential resource in **Killing floor** is a [RedirectURL][Redirect]{:target="_blank"} to host your *Compressed* mods and maps on.
+&nbsp;&nbsp;&nbsp;&nbsp;A very essential resource in **Killing Floor** is a [RedirectURL][Redirect]{:target="_blank"} to host your *Compressed* mods and maps on.
 
 The purpose of a redirectURL is to provide everyone a host where they can download your files from that server, with a substantialy increased speed than what the game can offer. Without it basically you cannot host a server that runs a lot of mods.
 
