@@ -34,9 +34,9 @@ layout: default
       </time>
       {%- if page.author -%} •
       <span itemprop="author" itemscope itemtype="http://schema.org/Person"
-        ><span class="p-author h-card" itemprop="name">{{
-          page.author | escape
-        }}</span></span>
+        ><span class="p-author h-card" itemprop="name"><a class="black-link" href="{{ site.url }}/about.html">
+          {{ site.author | escape }}
+        </a></span></span>
         {%- if page.last_modified_at -%}
           {%- if site.moving.dark_mode -%}
             <p class="p-author h-card" style="color:rgba(230, 224, 224, 0.959);font-size:11px;display: inline-block;">&nbsp;• Edited: {{ page.last_modified_at | date: '%b %-d, %Y at %r' }}</p>

@@ -37,3 +37,11 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# The URL for the staticman API bridge endpoint
+staticman_url: https://kf-blog-comments-bot.herokuapp.com/v2/entry/vel-san/vel-san.github.io/master/comments
+
+# reCaptcha
+reCaptcha:
+  siteKey: 6LenSvQUAAAAAPHYcsE7OCfIHh01L6xXIo6lS2SL
+  secret: bS2i42MY3KRg6HxQaqDiNFM9aylCONM+lWgTAKQfBkG9d7fwfzOTNUPXyLlFTUgwtE36zQlWQf0qKLQ90y98EsCp8rcADz8RReXlIlC0yUJr5Pd0ZRl0bzvWJa7XS/6q/4BqSEC/YZxewPZ4lguRM/ATjuPn1VoSzDPyhqeqSTpzCbFjn6tFJ8BufjGL47uMNdZuod4Ov7BGwMc1qWF/WQf/N/G+PuuqqBJHu17pT1xIDYQ9smV6XpWXA12owNiMdV7erd9Ud+1q4Zv1iLOpV+nlEvB8zew70JZMb7aJglPktOvpijJX4NKMKIGa/fNoxW7DSEGEiyqzaGePKc8njd2mJexZd49y4v9VFbOFYpntdIdn4cOFWl3oeokItSbjtzNI3B5Eu87Pew07AcMgb9OJHnvIIARsiytp7A8F9OBwQrd4lXHoc5wKn8tpDQa8Xo1qXfXlBh3KKuW8kSfobECSH1yV2FsAL0YoIiWcLrZuGEiVjcJjhjBI8RwIdNTACO8KiEYonVibAruN4aqhS8WFqiwjdKY1K1j4iYbxJQk0A+Ya+qd/vNdUMUz7THmy87wpZteKL5N0/hvvu/rkeZznY2sfFVHVXcMFpBQPgHaJ9lfHXMsQ+RPB1w6fm2tr0mFIzKq66x3YGNF5rQZIPXDZ4V2E2mOGRoaJ35Pfwac=
