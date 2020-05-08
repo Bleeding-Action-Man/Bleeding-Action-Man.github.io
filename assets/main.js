@@ -18,8 +18,8 @@
       data: $(this).serialize(),
       contentType: 'application/x-www-form-urlencoded',
       success: function (data) {
-        // showModal('Comment submitted', 'Thanks! Your comment is <a href="https://github.com/Vel-San/Vel-San.github.io/pulls">pending</a>. It will appear when approved by Vel-San.');
-        showModal('Comment submitted', 'Thanks! Your comment should appear shortly.');
+        showModal('Comment submitted', 'Thanks! Your comment is <a href="https://github.com/Vel-San/Vel-San.github.io/pulls">pending</a>. Vel-San has received it, and it will appear once he approves it.');
+        // showModal('Comment submitted', 'Thanks! Your comment should appear shortly.');
 
         $("#comment-form-submit")
           .html("Submit");
