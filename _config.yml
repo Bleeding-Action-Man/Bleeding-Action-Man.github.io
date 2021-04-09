@@ -1,9 +1,10 @@
-title: Vel-San's KF-1 Blog # The title of the blog
+title: Bleedin' Action Man # The title of the blog
 author: Vel-San # Your name
 email: Vel-San@protonmail.com # your email shown in the footer
 url: https://vel-san.github.io/ # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
-  A blog that will hold all my <a href="http://www.killingfloorgames.com/">Killing Floor 1</a> related contributions; guides, workshop items and favorite collections like Mutators, Maps and such.
+  Diary of an FBS.
+  Here you can find all <u>Vel-San</u>'s <a href="http://www.killingfloorgames.com/">Killing Floor 1</a> contributions;
 favicon: "./favicon.png" # set the favicon of the site
 
 # Timezone
@@ -13,8 +14,8 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # Moving date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 moving:
-  avatar_url: "https://i.imgur.com/nNT7g2P.jpg" # avatar in about page
-  about_you: Just a Fresh Meat who decided to be a Flesh Pounder! # short description about you in about page
+  avatar_url: "https://i.imgur.com/Gm9mJHU.png" # avatar in about page
+  about_you: Fresh Meat aspiring to be a FleshPounder; # short description about you in about page
   date_format: "%b %d" # date format of posts in home page
   back_to: "Home" # In the post page, you have a back button above the title, you can custom the text by yourself.
   dark_mode: true
@@ -22,6 +23,7 @@ moving:
   social_links:
     twitter: Vel__San
     github: Vel-San
+    bam_github: Bleeding-Action-Man
     steam: Vel-San
     reddit: XerXesKay
     # reddit:
