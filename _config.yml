@@ -4,7 +4,7 @@ email: Vel-San@protonmail.com # your email shown in the footer
 url: https://vel-san.github.io/ # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
   Diary of an FBS.
-  Here you can find all <u>Vel-San</u>'s <a href="http://www.killingfloorgames.com/">Killing Floor 1</a> contributions;
+  Here you can find all of <u>Vel-San</u>'s <a href="http://www.killingfloorgames.com/">Killing Floor 1</a> contributions;
 favicon: "./favicon.png" # set the favicon of the site
 
 # Timezone
