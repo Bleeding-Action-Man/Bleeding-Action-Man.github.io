@@ -5,7 +5,6 @@ url: https://vel-san.github.io/ # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
   Diary of an FBS.<br>
   A curated list of Guides, Mutators, Groups & Servers for <a href="http://www.killingfloorgames.com/">Killing Floor 1</a>;<br>
-  All findings here are community picked/submitted;
 favicon: "./favicon.png" # set the favicon of the site
 
 # Timezone
