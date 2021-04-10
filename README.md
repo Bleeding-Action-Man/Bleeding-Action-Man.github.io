@@ -4,6 +4,16 @@
 
 You can visit it here: [Vel-San.github.io](https://Vel-San.github.io/)
 
-## Local Dev & Usage
+## Base theme credits
 
-Theme used: [Moving](https://github.com/huangyz0918/moving), heavily modified with plugins & UI changes to my likings
+Theme used: [Moving](https://github.com/huangyz0918/moving), heavily modified by `Vel-San` with plugins & UI changes to his likings.
+
+## Development & previewing changes before pushing
+
+Assuming you already have the Jekyll enviroment installed, you just need to navigate to the repo directory after cloning and run this:
+
+> bundle install
+
+Once finished, navigate to _config.yml and scroll down to `remote_theme: XXX`, comment this and uncomment `theme: XXX`. This is **ONLY DONE** in development mode a.k.a *locally*! You need to revert back to `remote_theme: XXX` before pushing your commited changes.
+
+Now, run `bundle exec jekyll serve` and open your browser at http://localhost:4000. This starts a Jekyll server. Add your posts in the `_posts` directory, following the exact naming convention as the other posts (also, make sure you are creating them in `.md`). As you make modifications to the new content, the site will regenerate and you should see the changes in the browser after a refresh, just like normal.
