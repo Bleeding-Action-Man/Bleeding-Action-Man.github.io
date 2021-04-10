@@ -30,7 +30,7 @@ moving:
 
 # Build settings
 # theme: moving # Dev
-theme: huangyz0918/moving # Production
+remote_theme: huangyz0918/moving # Production
 
 # Switch between dark and light: _sass for light and _sass-dark for dark
 sass:

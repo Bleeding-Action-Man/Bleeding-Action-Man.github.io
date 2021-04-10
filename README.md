@@ -2,10 +2,8 @@
 
 # General
 
-Site for KF News and Updates
-
 You can visit it here: [Vel-San.github.io](https://Vel-San.github.io/)
 
 ## Local Dev & Usage
 
-Theme used: [Moving](https://github.com/huangyz0918/moving)
+Theme used: [Moving](https://github.com/huangyz0918/moving), heavily modified with plugins & UI changes to my likings
