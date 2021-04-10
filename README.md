@@ -10,7 +10,7 @@ Theme used: [Moving](https://github.com/huangyz0918/moving), heavily modified by
 
 ## Development & previewing changes before pushing
 
-Assuming you already have the Jekyll enviroment installed, you just need to navigate to the repo directory after cloning and run this:
+Assuming you already have the [Jekyll](https://jekyllrb.com/docs/installation/#guides) enviroment installed, you just need to navigate to the repo directory after cloning and run this:
 
 > bundle install
 
