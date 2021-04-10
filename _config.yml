@@ -1,7 +1,7 @@
 title: Bleedin' Action Man # The title of the blog
 author: Vel-San # Your name
 email: Vel-San@protonmail.com # your email shown in the footer
-url: https://vel-san.github.io/ # this is your site's root address.
+url: https://Bleeding-Action-Man.github.io/ # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
   Diary of an FBS.<br>
   A curated list of Guides, Mutators, Groups & Servers for <a href="http://www.killingfloorgames.com/">Killing Floor 1</a>;<br>
@@ -40,7 +40,7 @@ plugins:
   - jekyll-seo-tag
 
 # The URL for the staticman API bridge endpoint
-staticman_url: https://kf-blog-comments-bot.herokuapp.com/v2/entry/vel-san/vel-san.github.io/master/comments
+staticman_url: https://kf-blog-comments-bot.herokuapp.com/v2/entry/Bleeding-Action-Man/Bleeding-Action-Man.github.io/master/comments
 
 # reCaptcha
 reCaptcha:
