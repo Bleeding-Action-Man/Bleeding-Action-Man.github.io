@@ -4,11 +4,16 @@
 
 You can visit it here: [Bleeding-Action-Man.github.io](https://Bleeding-Action-Man.github.io/)
 
+## Contributions
+
+- Limited to: POSTS
+- Method: PULL REQUESTS
+
 ## Base theme credits
 
 Theme used: [Moving](https://github.com/huangyz0918/moving), heavily modified by `Vel-San` with plugins & UI changes to his likings.
 
-## Development & previewing changes before pushing
+## Development
 
 Assuming you already have the [Jekyll](https://jekyllrb.com/docs/installation/#guides) enviroment installed, you just need to navigate to the repo directory after cloning and run this:
 
