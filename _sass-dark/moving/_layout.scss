@@ -318,8 +318,8 @@
       // padding: 1px;
       // border: 2px solid $brand-color;
       // border-color: $brand-color;
-      width: 14rem;
-      height: 14rem;
+      width: 15rem;
+      height: 15rem;
       margin: 0 2rem 0 0;
     }
 
@@ -331,7 +331,7 @@
       .about-your-name {
         display: flex;
         flex-direction: row;
-        // margin-top: 1rem;
+        margin-top: 1rem;
         @include relative-font-size(1.5);
       }
 
